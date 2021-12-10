@@ -1,0 +1,15 @@
+Steps for Phase3
+
+Pre-Requisite - Data Ready
+
+0. Run Standlone stored Proc for JSON
+1.Run ADF Pipeline from Rob to generate JSON and deliver it to Event Hub into appropraite topic (Function App)
+2.Download JSON file and load it in table
+3.Prepare Expected SQL 
+4.Compare 3 & 4
+
+
+Optional Test
+5.AVRO file should be in BlobStorage (only for CDP)
+
+

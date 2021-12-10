@@ -1,0 +1,9 @@
+AccountDataChangedEvent
+AdviserDataChangedEvent
+DocumentDataChangedEvent
+IndividualDataChangedEvent
+LookupDataChangedEvent
+OrganisationDataChangedEvent
+PolicyCoverDataChangedEvent
+PolicyDetailsDataChangedEvent
+ProductDataChangedEvent
